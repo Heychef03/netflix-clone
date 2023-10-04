@@ -1,1 +1,1 @@
-# netflix-clone
+It is a Netflix-clone page, only for practice.
